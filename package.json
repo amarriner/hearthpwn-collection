@@ -1,0 +1,18 @@
+{
+  "name": "hearthpwn-collection",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "casperjs": "^1.1.1",
+    "html-entities": "^1.2.0",
+    "htmlparser": "^1.7.7",
+    "phantomjs": "^2.1.7",
+    "soupselect": "^0.2.0"
+  },
+  "description": "Hearthpwn Collection Scraper",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Aaron Marriner <amarriner@amarriner.com>",
+  "license": "ISC"
+}
