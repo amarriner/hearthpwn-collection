@@ -3,11 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {},
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/amarriner/hearthpwn-collection"
+  },
   "dependencies": {
-    "casperjs": "^1.1.1",
     "html-entities": "^1.2.0",
     "htmlparser": "^1.7.7",
-    "phantomjs": "^2.1.7",
     "soupselect": "^0.2.0"
   },
   "description": "Hearthpwn Collection Scraper",
