@@ -4,13 +4,14 @@
   "private": true,
   "scripts": {},
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/amarriner/hearthpwn-collection"
+    "type": "git",
+    "url": "https://github.com/amarriner/hearthpwn-collection"
   },
   "dependencies": {
     "html-entities": "^1.2.0",
     "htmlparser": "^1.7.7",
-    "soupselect": "^0.2.0"
+    "soupselect": "^0.2.0",
+    "request": "~2.72.0"
   },
   "description": "Hearthpwn Collection Scraper",
   "main": "index.js",
